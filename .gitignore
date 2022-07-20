@@ -14,3 +14,7 @@
 #Sensitivie data
 *.tfvars
 **/*.tfvars
+
+# Terraform lock files
+**/.terraform.*
+.terrafrom.*
